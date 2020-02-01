@@ -7,7 +7,9 @@
   "compatibilityLevel": "JAVA_8",
   "mixins": [
     "minecraft.block.state.MixinBlockState",
-    "minecraft.entity.MixinMobEntity"
+    "minecraft.entity.MixinMobEntity",
+    "minecraft.server.management.AccessorPlayerProfileCache$ProfileEntry",
+    "minecraft.server.management.MixinPlayerProfileCache"
   ],
   "server": [
   ],

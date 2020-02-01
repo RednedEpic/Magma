@@ -25,7 +25,7 @@ import java.util.Set;
  * MixinServerPlayerEntity
  *
  * @author Redned
- * @since 15/01/2019 - 09:34 pm
+ * @since 15/01/2020 - 09:34 pm
  */
 @Mixin(ServerPlayerEntity.class)
 public abstract class MixinServerPlayerEntity extends MixinPlayerEntity implements Player {

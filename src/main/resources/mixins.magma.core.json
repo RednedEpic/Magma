@@ -31,6 +31,7 @@
     "minecraft.world.server.AccessorServerChunkProvider",
     "minecraft.world.server.MixinServerWorld",
     "minecraft.world.MixinWorld",
-    "minecraft.world.chunk.MixinChunk"
+    "minecraft.world.chunk.MixinChunk",
+    "mojang.authlib.MixinGameProfile"
   ]
 }

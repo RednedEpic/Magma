@@ -19,7 +19,7 @@ import java.util.Collection;
  * MixinPlayerEntity
  *
  * @author Redned
- * @since 15/01/2019 - 09:38 pm
+ * @since 15/01/2020 - 09:38 pm
  */
 @Mixin(PlayerEntity.class)
 public abstract class MixinPlayerEntity extends MixinLivingEntity implements HumanEntity {
